@@ -1,0 +1,11 @@
+vless://eb6c79e3-90c7-4dec-8f07-2b32c78f6bd0@omidworcer85.omidfozol.workers.dev:443?security=tls&encryption=none&type=ws&sni=omidworcer85.omidfozol.workers.dev#omidworker85
+
+vless://93320902-ce99-412b-8b21-6272f077c913@silent-resonance-8930.xigoca5108.workers.dev:443?security=tls&encryption=none&type=ws&sni=silent-resonance-8930.xigoca5108.workers.dev#silent
+
+vless://c84080a3-a18a-48bc-8d8e-5c6eb95990ed@amin-77.aminesmaeili022.workers.dev:443?path=%2F&security=tls&encryption=none&type=ws&sni=amin-77.aminesmaeili022.workers.dev#amin
+
+vless://cc1a1afa-5ee5-467b-8c48-c82e1ef13509@omidworker69.omidfozol.workers.dev:443?security=tls&encryption=none&type=ws&sni=omidworker69.omidfozol.workers.dev#omidworker69
+
+vless://ad22c033-e1a6-423a-b6c4-b2eb0cedf96d@omidworcer851.milaniom190.workers.dev:443?security=tls&encryption=none&type=ws&sni=omidworcer851.milaniom190.workers.dev#omidworker851
+
+vless://f2b57fa9-4f99-43cd-978f-9b71cb93c941@orange-sea-e61a.mvahid624.workers.dev:443?security=tls&encryption=none&type=ws&sni=orange-sea-e61a.mvahid624.workers.dev#omidworker
